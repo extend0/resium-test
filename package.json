@@ -30,6 +30,7 @@
     "webpack-dev-server": "3.11.0"
   },
   "dependencies": {
+    "@zappar/zappar-react-three-fiber": "^1.0.3",
     "cesium": "1.77.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
